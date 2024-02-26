@@ -28,6 +28,8 @@ async function main() {
     console.log("THIS IS THE PROJECT DETAILS", projectDetails);    
 
 
+  //TRANSACTION HASH
+//0x0f8e14e01a6fab65c1599cc3b57ed42618f92629a0d5cc3ec383378927ba03f2 
 
 
 
